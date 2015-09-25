@@ -134,7 +134,7 @@ public class ExternalController implements ProgramCycle
 			robot.mouseRelease(InputEvent.BUTTON1_MASK);
 			
 			Clipboard clipboard =  Toolkit.getDefaultToolkit().getSystemClipboard();
-			StringSelection text = new StringSelection("https://iqoption.com/us/options/turbo");
+			StringSelection text = new StringSelection("!!!!!INSERT BROKER SITE HERE!!!!!!");
 			clipboard.setContents(text, null);
 			
 			//select the URL

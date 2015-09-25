@@ -155,7 +155,7 @@ public class Scanner implements ProgramCycle {
 	public void openURL() {
 		try {
 			Desktop.getDesktop().browse(
-					new URI("https://iqoption.com/us/options/turbo"));
+					new URI("!!!!INSERT BROKER SITE HERE!!!!!"));
 		} catch (IOException e) {
 			// TODO Auto-generated catch block
 			e.printStackTrace();
